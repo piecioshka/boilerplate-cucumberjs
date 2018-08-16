@@ -1,0 +1,27 @@
+{
+    "private": true,
+    "name": "test-cucumberjs",
+    "description": "TODO",
+    "version": "1.0.0",
+    "license": "MIT",
+    "author": {
+        "name": "Piotr Kowalski",
+        "email": "piecioshka@gmail.com",
+        "url": "https://piecioshka.pl/"
+    },
+    "scripts": {
+        "test": "cucumber-js",
+        "clear": "",
+        "clear:all": "rm -rf node_modules/ && npm run clear",
+        "count": "find . -name '*.js' -not -path './node_modules/*' | xargs wc -l | sort -r"
+    },
+    "dependencies": {},
+    "devDependencies": {
+        "chai": "^4.1.2",
+        "cucumber": "^4.2.1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:piecioshka/test-cucumberjs.git"
+    }
+}
