@@ -1,7 +1,7 @@
 {
     "private": true,
     "name": "test-cucumberjs",
-    "description": "TODO",
+    "description": "",
     "version": "1.0.0",
     "license": "MIT",
     "author": {
@@ -10,10 +10,9 @@
         "url": "https://piecioshka.pl/"
     },
     "scripts": {
-        "test": "cucumber-js",
-        "clear": "",
+        "clear": "echo",
         "clear:all": "rm -rf node_modules/ && npm run clear",
-        "count": "find . -name '*.js' -not -path './node_modules/*' | xargs wc -l | sort -r"
+        "test": "cucumber-js"
     },
     "dependencies": {},
     "devDependencies": {
