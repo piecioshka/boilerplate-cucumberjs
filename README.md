@@ -1,7 +1,6 @@
 # boilerplate-cucumberjs
 
-[![travis](https://img.shields.io/travis/piecioshka/boilerplate-cucumberjs.svg)](https://travis-ci.org/piecioshka/boilerplate-cucumberjs)
-[![dependencies](https://david-dm.org/piecioshka/boilerplate-cucumberjs.svg)](https://github.com/piecioshka/boilerplate-cucumberjs)
+[![travis-ci](https://img.shields.io/travis/piecioshka/boilerplate-cucumberjs.svg)](https://travis-ci.org/piecioshka/boilerplate-cucumberjs)
 
 :ledger: Testing [Cucumber.js](https://cucumber.io/docs/installation/javascript/)
 
