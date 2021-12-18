@@ -1,6 +1,6 @@
 {
     "private": true,
-    "name": "test-cucumberjs",
+    "name": "boilerplate-cucumberjs",
     "description": "",
     "version": "1.0.0",
     "license": "MIT",
@@ -21,6 +21,6 @@
     },
     "repository": {
         "type": "git",
-        "url": "git@github.com:piecioshka/test-cucumberjs.git"
+        "url": "git@github.com:piecioshka/boilerplate-cucumberjs.git"
     }
 }
