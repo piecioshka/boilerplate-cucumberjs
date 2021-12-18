@@ -1,26 +1,23 @@
 {
-    "private": true,
-    "name": "boilerplate-cucumberjs",
-    "description": "",
-    "version": "1.0.0",
-    "license": "MIT",
-    "author": {
-        "name": "Piotr Kowalski",
-        "email": "piecioshka@gmail.com",
-        "url": "https://piecioshka.pl/"
-    },
-    "scripts": {
-        "clear": "echo",
-        "clear:all": "rm -rf node_modules/ && npm run clear",
-        "test": "cucumber-js"
-    },
-    "dependencies": {},
-    "devDependencies": {
-        "chai": "^4.2.0",
-        "cucumber": "^5.1.0"
-    },
-    "repository": {
-        "type": "git",
-        "url": "git@github.com:piecioshka/boilerplate-cucumberjs.git"
-    }
+  "private": true,
+  "name": "boilerplate-cucumberjs",
+  "description": "",
+  "version": "0.0.0",
+  "license": "MIT",
+  "author": {
+    "name": "Piotr Kowalski",
+    "email": "piecioshka@gmail.com",
+    "url": "https://piecioshka.pl/"
+  },
+  "scripts": {
+    "test": "cucumber-js"
+  },
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "cucumber": "^6.0.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:piecioshka/boilerplate-cucumberjs.git"
+  }
 }
