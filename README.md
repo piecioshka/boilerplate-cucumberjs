@@ -4,6 +4,10 @@
 
 🍴 Starter with [Cucumber.js](https://cucumber.io/docs/installation/javascript/)
 
+## Features
+
+* :white_check_mark: Cucumber `v6.0.5`
+
 ## End-to-end tests
 
 ```bash
@@ -21,4 +25,4 @@ npm test
 
 ## License
 
-[The MIT License](http://piecioshka.mit-license.org) @ 2018
+[The MIT License](http://piecioshka.mit-license.org) @ 2018-2021

@@ -13,7 +13,6 @@
     "test": "cucumber-js"
   },
   "devDependencies": {
-    "chai": "^4.3.4",
     "cucumber": "^6.0.5"
   },
   "repository": {
