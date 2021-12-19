@@ -1,6 +1,6 @@
 # boilerplate-cucumberjs
 
-[![travis-ci](https://img.shields.io/travis/piecioshka/boilerplate-cucumberjs.svg)](https://travis-ci.org/piecioshka/boilerplate-cucumberjs)
+[![travis-ci](https://img.shields.io/travis/piecioshka/boilerplate-cucumberjs.svg)](https://app.travis-ci.com/github/piecioshka/boilerplate-cucumberjs)
 
 🍴 Starter with [Cucumber.js](https://cucumber.io/docs/installation/javascript/)
 
