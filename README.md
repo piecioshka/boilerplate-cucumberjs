@@ -1,6 +1,6 @@
 # boilerplate-cucumberjs
 
-[![travis-ci](https://api.travis-ci.com/piecioshka/boilerplate-cucumberjs.svg?branch=master)](https://app.travis-ci.com/github/piecioshka/boilerplate-cucumberjs)
+[![github-ci](https://github.com/piecioshka/boilerplate-cucumberjs/actions/workflows/testing.yml/badge.svg)](https://github.com/piecioshka/boilerplate-cucumberjs/actions/workflows/testing.yml)
 
 🍴 Starter with Cucumber.js
 

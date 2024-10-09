@@ -13,7 +13,7 @@
     "test": "cucumber-js"
   },
   "devDependencies": {
-    "cucumber": "^6.0.5"
+    "cucumber": "^6.0.7"
   },
   "repository": {
     "type": "git",
