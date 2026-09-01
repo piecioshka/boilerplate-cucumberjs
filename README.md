@@ -1,6 +1,6 @@
 # boilerplate-cucumberjs
 
-[![github-ci](https://github.com/piecioshka/boilerplate-cucumberjs/actions/workflows/testing.yml/badge.svg)](https://github.com/piecioshka/boilerplate-cucumberjs/actions/workflows/testing.yml)
+[![github-ci](https://github.com/piecioshka/boilerplate-cucumberjs/actions/workflows/ci.yml/badge.svg)](https://github.com/piecioshka/boilerplate-cucumberjs/actions/workflows/ci.yml)
 
 🍴 Starter with Cucumber.js
 
